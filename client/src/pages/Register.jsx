@@ -27,8 +27,8 @@ const Register = () => {
         <FormRow type='text' name='name' defaultValue='Ashish'/>
         <FormRow type='text' name='lastName' defaultValue='Verma'/>
         <FormRow type='text' name='location' defaultValue='earth'/>
-        <FormRow type='email.' name='email' defaultValue='ashishverma@gmail.com'/>
-        <FormRow type='password' name='password' defaultValue='ashish@123'/>
+        <FormRow type='email.' name='email' />
+        <FormRow type='password' name='password' />
         <SubmitBtn />
 
         <p>
